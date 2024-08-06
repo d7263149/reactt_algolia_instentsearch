@@ -21,6 +21,7 @@ const searchClient = algoliasearch(
   '302790e6536a1f4f743b0a8cbcda84e4'
 );
 
+
 const future = { preserveSharedStateOnUnmount: true };
 
 export function App() {
